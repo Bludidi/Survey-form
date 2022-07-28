@@ -1,0 +1,23 @@
+body{
+padding:20px;
+}
+
+.head{
+    text-align: center;
+    margin: 0; 
+}
+.pgrp{
+  /* padding: 25px; */
+    text-align:justify;
+}
+#div{
+padding-left:100;
+ width: 600px;
+display: flex;
+flex-direction: column;
+}
+
+a:hover{
+  font-size: 16px;
+    color: yellow;
+}
