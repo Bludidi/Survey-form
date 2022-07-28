@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Input Form</title>
-        <link rel="stylesheet" href="inputForm.css">
+        <link rel="stylesheet" href="survey_form.css">
     </header>
     <body>
     <div id="container">
